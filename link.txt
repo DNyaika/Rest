@@ -1,0 +1,1 @@
+https://github.com/oreillymedia/restful_java_jax-rs_2_0
